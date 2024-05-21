@@ -1,4 +1,4 @@
-# Download the mnist datasets, convert to images and save orderly.  
+# Download the mnist dataset, convert to images and save orderly.  
 
 First, install necessary packeges by:
 ```
