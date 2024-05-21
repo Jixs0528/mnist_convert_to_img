@@ -1,6 +1,4 @@
-# mnist_convert_to_img
-
-Download the mnist datasets, convert to images and save orderly.  
+# Download the mnist datasets, convert to images and save orderly.  
 
 First, install necessary packeges by:
 ```
